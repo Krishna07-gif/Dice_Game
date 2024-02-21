@@ -3,7 +3,7 @@
 
 ## Project Link
 
-The project is deployed and can be accessed at [https://master--endearing-phoenix-729a8a.netlify.app/](https://master--endearing-phoenix-729a8a.netlify.app/)
+The project is deployed and can be accessed at [https://master--dice-with-me.netlify.app/]
 
 ## Available Scripts
 
